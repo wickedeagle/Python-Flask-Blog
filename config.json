@@ -1,0 +1,22 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql+pymysql://root:@localhost/codingthunder",
+    "prod_uri": "mysql+pymysql://root:@localhost/codingthunder",
+    "fb_url": "https://facebook.com/entrepreneur",
+    "tw_url": "https://twitter.com/entrepreneur",
+    "gh_url": "https://github.com/entrepreneur",
+    "gmail-user": "your gmail id",
+    "gmail-password":"your gmail password",
+    "blog_name":" Entrepreneur",
+    "tag_line":"Have Faith in You",
+    "about_text": "Hi my name is Pushkar and I aspire to be an Entrepreneur ",
+    "no_of_posts": "2",
+    "login_img":"login.svg",
+    "admin_user": "pushkar",
+    "admin_password": "entrepreneur",
+    "upload_location": "C:\\Users\\Pushkar Singh\\PycharmProjects\\flask-tutor\\static"
+  }
+
+}
